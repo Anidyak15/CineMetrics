@@ -1,0 +1,51 @@
+Movie_ID,Title,Genre,Year,Runtime_Minutes,Rating,Votes,Language
+M001,The Shawshank Redemption,Drama,1994,142,9.3,3100000,English
+M002,The Godfather,Crime|Drama,1972,175,9.2,2200000,English
+M003,The Dark Knight,Action|Crime|Drama,2008,152,9.1,3300000,English
+M004,The Godfather Part II,Crime|Drama,1974,202,9,1500000,English
+M005,12 Angry Men,Crime|Drama,1957,96,9,900000,English
+M006,Schindler's List,Biography|Drama|History,1993,195,9,1600000,English
+M007,The Lord of the Rings: The Return of the King,Action|Adventure|Drama,2003,201,9,2200000,English
+M008,Pulp Fiction,Crime|Drama,1994,154,8.9,2400000,English
+M009,The Lord of the Rings: The Fellowship of the Ring,Action|Adventure|Drama,2001,178,8.9,2100000,English
+M010,"The Good, the Bad and the Ugly",Western,1966,178,8.8,900000,Italian|English
+M011,Forrest Gump,Drama|Romance,1994,142,8.8,2400000,English
+M012,Inception,Action|Sci-Fi|Thriller,2010,148,8.8,2600000,English
+M013,Fight Club,Drama,1999,139,8.8,2400000,English
+M014,The Lord of the Rings: The Two Towers,Action|Adventure|Drama,2002,179,8.8,2000000,English
+M015,The Matrix,Action|Sci-Fi,1999,136,8.7,2100000,English
+M016,Goodfellas,Biography|Crime|Drama,1990,145,8.7,1400000,English
+M017,Interstellar,Adventure|Drama|Sci-Fi,2014,169,8.7,2200000,English
+M018,City of God,Crime|Drama,2002,130,8.6,800000,Portuguese
+M019,The Silence of the Lambs,Crime|Drama|Thriller,1991,118,8.6,1700000,English
+M020,Saving Private Ryan,Drama|War,1998,169,8.6,1600000,English
+M021,The Green Mile,Crime|Drama|Fantasy,1999,189,8.6,1500000,English
+M022,Parasite,Drama|Thriller,2019,132,8.5,1000000,Korean
+M023,Gladiator,Action|Adventure|Drama,2000,155,8.5,1800000,English
+M024,The Prestige,Drama|Mystery|Sci-Fi,2006,130,8.5,1500000,English
+M025,The Departed,Crime|Drama|Thriller,2006,151,8.5,1500000,English
+M026,Whiplash,Drama|Music,2014,106,8.5,1000000,English
+M027,The Intouchables,Biography|Comedy|Drama,2011,112,8.5,1000000,French
+M028,The Lion King,Animation|Adventure|Drama,1994,88,8.5,1100000,English
+M029,Avengers: Endgame,Action|Adventure|Drama,2019,181,8.4,1400000,English
+M030,Spider-Man: No Way Home,Action|Adventure|Fantasy,2021,148,8.2,950000,English
+M031,Top Gun: Maverick,Action|Drama,2022,130,8.2,750000,English
+M032,Oppenheimer,Biography|Drama|History,2023,180,8.6,950000,English
+M033,Dune: Part Two,Action|Adventure|Drama,2024,166,8.5,600000,English
+M034,Mad Max: Fury Road,Action|Adventure|Sci-Fi,2015,120,8.1,1100000,English
+M035,John Wick,Action|Thriller,2014,101,7.4,800000,English
+M036,Mission: Impossible - Fallout,Action|Adventure|Thriller,2018,147,7.7,380000,English
+M037,The Wolf of Wall Street,Biography|Comedy|Crime,2013,180,8.2,1700000,English
+M038,The Grand Budapest Hotel,Adventure|Comedy|Crime,2014,99,8.1,900000,English
+M039,Get Out,Horror|Mystery|Thriller,2017,104,7.7,760000,English
+M040,A Quiet Place,Drama|Horror|Sci-Fi,2018,90,7.5,620000,English
+M041,3 Idiots,Comedy|Drama,2009,170,8.4,450000,Hindi
+M042,Dangal,Biography|Drama|Sport,2016,161,8.3,220000,Hindi
+M043,Taare Zameen Par,Drama,2007,165,8.3,210000,Hindi
+M044,Andhadhun,Comedy|Crime|Thriller,2018,139,8.2,110000,Hindi
+M045,Drishyam,Crime|Drama|Mystery,2015,163,8.2,120000,Hindi
+M046,Ratsasan,Crime|Mystery|Thriller,2018,170,8.3,55000,Tamil
+M047,Jai Bhim,Crime|Drama|Legal,2021,164,9,230000,Tamil
+M048,Kantara,Action|Drama|Thriller,2022,148,8.6,105000,Kannada
+M049,KGF: Chapter 1,Action|Crime|Drama,2018,156,8.2,105000,Kannada
+M050,12th Fail,Biography|Drama,2023,147,8.7,110000,Hindi
